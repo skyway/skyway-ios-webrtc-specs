@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "WebRTC-for-skyway"
-  spec.version      = "104.0.1"
+  spec.name         = "WebRTC"
+  spec.version      = "104.0.0"
   spec.summary      = "WebRTC Framework"
 
   # This description is used to generate tags and improve search results.
@@ -77,7 +77,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source           = {
-    :http => 'https://github.com/skyway/skyway-ios-webrtc/releases/download/104.0.1/WebRTC.xcframework.zip',
+    :http => 'https://github.com/skyway/skyway-ios-webrtc-specs/releases/download/104.0.0/WebRTC.xcframework.zip',
     :headers => ['Accept: application/octet-stream']
   }
   spec.vendored_frameworks = 'WebRTC.xcframework'
