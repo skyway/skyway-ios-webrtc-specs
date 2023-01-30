@@ -26,5 +26,5 @@ let package = Package(
             url: "https://github.com/skyway/skyway-ios-webrtc/releases/download/104.0.1/WebRTC.xcframework.zip",
             checksum: "84722bec35c919945164edfa3f0577fc1c29bf2a14033d635bbe0b86ed0ef088"),
     ],
-    swiftLanguageVersions: [.v5])
+    swiftLanguageVersions: [.v5]
 )
