@@ -40,7 +40,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.license      = "BSD"
-  spec.license      = { :type => "BSD", :file => "LICENSE" }
+  spec.license      = { :type => "BSD", :file => "LICENSE.md" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
