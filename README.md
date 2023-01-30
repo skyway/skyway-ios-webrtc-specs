@@ -1,3 +1,7 @@
 # SkyWay iOS SDK向けWebRTCライブラリ
 
-SkyWayの概要については[こちら](https://skyway.ntt.com)をご覧ください
+iOS SDKが依存するWebRTCライブラリとSpecを管理するリポジトリ
+
+iOS SDK リポジトリ
+
+https://github.com/skyway/ios-sdk
